@@ -292,3 +292,51 @@
 | sajiao68.webp | 我吗？ |
 | sajiao69.webp | 是说我吗？ |
 | sajiao70.webp | 求了 |
+
+## 🐱 八条猫
+
+| 文件 | 含义 |
+|---|---|
+| cat01.jpg | 卖萌 |
+| cat02.jpg | 亲亲 |
+| cat03.jpg | 可怜 |
+| cat04.jpg | 不想上班 |
+| cat05.jpg | 坏笑 |
+| cat06.jpg | 顿悟 |
+| cat07.jpg | 蹭蹭 |
+| cat08.jpg | 啧 |
+| cat09.jpg | 生气 |
+| cat10.jpg | 盯 |
+| cat11.jpg | 威胁 |
+| cat12.jpg | 问号 |
+| cat13.jpg | 恼 |
+| cat14.jpg | 拍拍头 |
+| cat15.jpg | 舔屏 |
+| cat16.jpg | 摇尾巴 |
+| cat17.jpg | 讨好 |
+| cat18.jpg | 受惊 |
+| cat19.jpg | 思考 |
+| cat20.jpg | 闭麦 |
+| cat21.jpg | 喜欢 |
+| cat22.jpg | 大声哭 |
+| cat23.jpg | 嫌弃 |
+| cat24.jpg | 哭泣 |
+| cat25.jpg | 敌意 |
+| cat26.jpg | 萌萌地看着你 |
+| cat27.jpg | 呆傻 |
+| cat28.jpg | 斗鸡眼 |
+| cat29.jpg | 来了 |
+| cat30.jpg | 认真 |
+| cat31.jpg | 邪恶蟑螂咪 |
+| cat32.jpg | 瑟瑟发抖 |
+| cat33.jpg | 收到 |
+| cat34.jpg | 被揪领子 |
+| cat35.jpg | 你也为我着迷吗？ |
+| cat36.jpg | 躲避 |
+| cat37.jpg | 哭成一滩 |
+| cat38.jpg | 挨揍 |
+| cat39.jpg | 摸头 |
+| cat40.jpg | 阴暗 |
+| cat41.jpg | 被关起来 |
+| cat42.jpg | 叼玫瑰 |
+| cat43.jpg | 嘿嘿 |
